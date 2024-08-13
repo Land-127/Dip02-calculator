@@ -14,3 +14,9 @@ dip02 calculator
 
 ## Disclaimer
 for educational purpose only. Run on your own risk
+## Note
+### 14/8/2024
+1. create all button
+ - Mathematical operations buttons
+ - Digit button 0-9
+2. Update READ.md
